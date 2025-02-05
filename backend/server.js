@@ -33,5 +33,5 @@ app.delete('/clientes/:id', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Servidor API escuchando en http://localhost:${port}`);
+  console.log(`Servidor API escuchando en http://http//35.172.214.87:${port}`);
 });
